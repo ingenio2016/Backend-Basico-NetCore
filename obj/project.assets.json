@@ -13252,11 +13252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\HEBERT DESARROLLO\\BACKEND-BASE\\AngularASPNETCore2WebApiAuth.csproj",
+      "projectUniqueName": "F:\\WILMER-DESARROLLOS\\apiNotification\\AngularASPNETCore2WebApiAuth.csproj",
       "projectName": "AngularASPNETCore2WebApiAuth",
-      "projectPath": "F:\\HEBERT DESARROLLO\\BACKEND-BASE\\AngularASPNETCore2WebApiAuth.csproj",
+      "projectPath": "F:\\WILMER-DESARROLLOS\\apiNotification\\AngularASPNETCore2WebApiAuth.csproj",
       "packagesPath": "C:\\Users\\ingeramirez\\.nuget\\packages\\",
-      "outputPath": "F:\\HEBERT DESARROLLO\\BACKEND-BASE\\obj\\",
+      "outputPath": "F:\\WILMER-DESARROLLOS\\apiNotification\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
