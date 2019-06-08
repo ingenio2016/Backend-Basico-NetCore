@@ -1,0 +1,74 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "project": {
+    "name": "jwt-auth-demo"
+  },
+  "apps": [
+    {
+      "root": "src",
+      "outDir": "wwwroot",
+      "assets": [
+        "assets",
+        "favicon.ico",
+        "facebook-auth.html"
+      ],
+      "index": "index.html",
+      "main": "main.ts",
+      "polyfills": "polyfills.ts",
+      "test": "test.ts",
+      "tsconfig": "tsconfig.app.json",
+      "testTsconfig": "tsconfig.spec.json",
+      "prefix": "app",
+      "styles": [
+        "assets/admin-theme/css/materialize.css",
+        "assets/admin-theme/css/style.css",
+        "assets/admin-theme/css/custom/custom.css",
+        "assets/admin-theme/css/layouts/page-center.css",
+        "assets/admin-theme/js/plugins/prism/prism.css",
+        "assets/admin-theme/js/plugins/perfect-scrollbar/perfect-scrollbar.css",
+        "assets/animate/animate.css"
+      ],
+      "scripts": [
+        "assets/admin-theme/js/plugins/jquery-1.11.2.min.js",
+        "assets/admin-theme/js/materialize.min.js",
+        "assets/admin-theme/js/plugins/prism/prism.js",
+        "assets/admin-theme/js/plugins/perfect-scrollbar/perfect-scrollbar.min.js",
+        "assets/admin-theme/js/plugins.min.js",
+        "assets/admin-theme/js/custom-script.js"
+      ],
+      "environmentSource": "environments/environment.ts",
+      "environments": {
+        "dev": "environments/environment.ts",
+        "prod": "environments/environment.prod.ts"
+      }
+    }
+  ],
+  "e2e": {
+    "protractor": {
+      "config": "./protractor.conf.js"
+    }
+  },
+  "lint": [
+    {
+      "project": "src/tsconfig.app.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "src/tsconfig.spec.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "e2e/tsconfig.e2e.json",
+      "exclude": "**/node_modules/**"
+    }
+  ],
+  "test": {
+    "karma": {
+      "config": "./karma.conf.js"
+    }
+  },
+  "defaults": {
+    "styleExt": "scss",
+    "component": {}
+  }
+}

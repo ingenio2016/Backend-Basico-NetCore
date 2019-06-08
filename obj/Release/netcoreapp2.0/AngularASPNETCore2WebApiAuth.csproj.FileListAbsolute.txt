@@ -1,0 +1,55 @@
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\24 RO11LA\Documents\Visual Studio 2017\Projects\Repos\RedGobernacion\API\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojResolveAssemblyReference.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+E:\ProyectoRestaurante\restaurant-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+E:\ProyectoRestaurante\restaurant-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+E:\ProyectoRestaurante\restaurant-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+E:\ProyectoRestaurante\restaurant-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+E:\ProyectoRestaurante\restaurant-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+E:\ProyectoRestaurante\restaurant-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+E:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+E:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+E:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+E:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+E:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+E:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+F:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.deps.json
+F:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+F:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+F:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+F:\ProyectoCampeonatos\campeonatos-back\bin\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.dll
+F:\ProyectoCampeonatos\campeonatos-back\obj\Release\netcoreapp2.0\AngularASPNETCore2WebApiAuth.pdb

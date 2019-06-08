@@ -1,0 +1,11 @@
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.deps.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.runtimeconfig.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.runtimeconfig.dev.json
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.dll
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\bin\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.pdb
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.csprojAssemblyReference.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.csproj.CoreCompileInputs.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.AssemblyInfoInputs.cache
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.AssemblyInfo.cs
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.dll
+C:\Users\ingeramirez\source\repos\ProyectoGobernacion\NetCoreExample\NetCoreExample\obj\Release\netcoreapp2.0\win-x86\AngularASPNETCore2WebApiAuth.pdb
